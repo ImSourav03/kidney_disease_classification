@@ -3,7 +3,7 @@
 # How to run?
 ### STEPS:
 
-Clone the repository
+Clone the repository into your local dev env
 
 ```bash
 https://github.com/dhruvk2002/kidney_disease_classification 
